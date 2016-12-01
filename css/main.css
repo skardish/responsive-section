@@ -24,7 +24,7 @@ body {
 .wrapper {
   max-width: 45em;
   margin: 0 auto;
-  padding: 1.3rem;
+  padding: 1rem;
 }
 
 .img-flex {
@@ -63,11 +63,11 @@ section p {
   }
 
   .section-letter {
-    padding: 1rem;
+    width: 43%;
   }
 
   .section-icon {
-    padding: 1rem;
+    width: 43%;
   }
 
 }
