@@ -84,11 +84,14 @@ section p {
   }
 
   .section-letter {
-
+    float: left;
+    width: 15%;
   }
 
   .section-icon {
-
+    float: right;
+    width: 15%;
+    overflow: hidden;
   }
 
 }
